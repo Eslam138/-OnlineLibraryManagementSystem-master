@@ -1,0 +1,40 @@
+
+
+table{
+	margin: 2% auto 3% auto;
+	width: 650px;
+	height: 0 auto;
+	overflow: hidden;
+	background: #f1f1f1;
+	border-radius:20px;
+}
+
+table tr{
+	width: 100%;
+    margin:5px;
+
+}
+
+table tr th{
+	background: #3e3e3e;
+	color: #fff !important;
+	font-family: georgia;
+	margin:5px;
+
+}
+
+table tr th, table tr td{
+	padding: 10px;
+	color: #A0522D;
+	font-family: arial;
+	font-size: 13px;
+	text-align: center;
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+	border-radius:20px;
+}
+
+table tr td{
+	border-bottom: 2px solid black;
+	margin:5px;
+}

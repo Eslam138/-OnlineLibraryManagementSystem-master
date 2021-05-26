@@ -1,0 +1,63 @@
+
+body{
+	border: none;
+	margin: 0px;
+	padding: 0px;
+}
+
+.header{
+	border: 1px solid gray;
+	border-radius: 5px;
+	margin: 5px;
+	padding: 5px;
+	width: 0 auto;
+	height: 0 auto;
+}
+
+.navigation{
+	border-radius: 5px;
+	margin: 5px;
+	padding: 5px;
+	width: 0 auto;
+	height: 40px;
+}
+
+.content{
+	border: 9px solid gray;
+    margin: 10px;
+    padding: 0px;
+    width: 100%;
+    height: 100%;
+}
+
+.footer{
+	border: 1px solid gray;
+    margin-top: 70px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    width: 0 auto;
+    height: 0 auto;
+    text-align: center;
+    background: dimgrey;
+}
+
+.errorMsg{
+	border: none;
+	float: center;
+	text-align: center;
+	padding: 5px 14px;
+	margin-top: 20px;
+	font-size: 18px;
+	background: #ff9999;
+	color: red;
+}
+
+
+
+
+
+
+
+
+
+

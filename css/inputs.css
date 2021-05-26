@@ -1,0 +1,37 @@
+
+
+input[type="text"],input[type="email"],input[type="password"]{
+	width: 280px;
+	height: 40px;
+	font-size: 15px;
+	border: 1px;
+
+	text-align: 20px;
+	margin-bottom: 20px;
+	border-radius: 9px;
+	background-color: #fff;
+	padding-left: 20px;
+}
+
+
+input[type="submit"]{   
+	padding: 15px 30px;
+    cursor: pointer;
+    color: #fff;
+    border-radius: 4px;
+    border: none;
+    background-color: grey;
+    border-bottom: 3px solid indigo;
+    margin-bottom: 20px;
+    border-radius: 50px;
+}
+input[type="file"]{
+	width: 200px;
+	height: 40px;
+	font-size: 15px;
+	border: none;
+	margin: 5px;
+	margin-left: 0px;
+	border-radius: 4px;
+	background-color: #fff;
+}

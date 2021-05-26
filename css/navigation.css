@@ -1,0 +1,40 @@
+
+
+.navigation ul{
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+	margin-left: 20px;
+}
+
+.navigation ul li a{
+	text-decoration: none;
+	color: white;
+	display: block;
+}
+
+.navigation ul li{  
+	float: left;
+    width: 200px;
+    height: 40px;
+    background-color: midnightblue;
+    font-size: 21px;
+    line-height: 40px;
+    text-align: center;
+    opacity: 8.8;
+    border: 0px solid burlywood;
+    border-radius: 30px;
+    margin: 20px;
+}
+
+.navigation ul li a:hover{
+	background-color: orange;
+}
+
+.navigation ul li ul li{
+	display: none;
+}
+
+.navigation ul li:hover ul li{
+	display: block;
+}

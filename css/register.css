@@ -1,0 +1,63 @@
+
+.addMemberForm{
+	border: none;
+    width: 1100px;
+    height: 0 auto;
+    text-align: center;
+    background-size: 100% 100%;
+    background-color: darkgrey;
+    border-radius: 4px;
+    margin: 0 auto;
+    margin-top: 20px;
+    padding: 10px;
+    margin-bottom: 50px;
+}
+
+.addform{
+	border: none;
+	margin: 10px;
+	width: 1075px;
+	height: 0 auto;
+	padding-left: 30px;
+}
+
+.inputs{
+	border: none;
+	height: 50px;
+	padding: 0px;
+	padding-left: 10px;
+	margin: 10px;
+	float: left;
+}
+
+.inputs label{
+	color: white;
+	font-size: 15px;
+}
+
+input[type="text"],input[type="email"],input[type="password"]{
+	width: 280px;
+	height: 40px;
+	font-size: 15px;
+	border: none;
+	margin: 5px;
+	border-radius: 4px;
+	background-color: #fff;
+	padding-left: 20px;
+}
+
+input[type="submit"]{
+	width: 200px;
+    height: 60px;
+    padding: 15px 30px;
+    cursor: pointer;
+    color: #fff;
+    border-radius: 25%;
+    border: none;
+    font-size: 16px;
+    background-color: indigo;
+    border-bottom: 4px solid lawngreen;
+    margin-top: 30px;
+    margin-right: 40px;
+    margin-bottom: 20px;
+}

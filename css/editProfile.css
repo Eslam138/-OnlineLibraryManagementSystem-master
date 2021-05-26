@@ -1,0 +1,14 @@
+
+.inputs{
+	border: none;
+	height: 50px;
+	padding: 0px;
+	padding-left: 10px;
+	margin: 10px;
+	margin-left: 95px; 
+}
+
+.inputs label{
+	color: black;
+	font-size: 15px;
+}
